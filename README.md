@@ -15,7 +15,7 @@ Tenho background sólido em **suporte técnico e infraestrutura**, o que me dá 
 - Modelagem de dados e lógica de negócio
 - Integração entre sistemas
 - Versionamento com **Git**
-- Boa comunicação com áreas não técnicas (diferencial forte)
+- Boa comunicação com áreas não técnicas
 
 ---
 
@@ -42,7 +42,7 @@ Tenho background sólido em **suporte técnico e infraestrutura**, o que me dá 
 - Projetos práticos focados em **lógica, organização e boas práticas**
 - Código legível e versionado
 - Experimentos com backend e APIs
-- Evolução constante (commits frequentes)
+- Evolução constante
 
 > Prefiro projetos simples, bem feitos e explicáveis, do que algo grande sem base sólida.
 
@@ -57,10 +57,10 @@ Tenho background sólido em **suporte técnico e infraestrutura**, o que me dá 
 
 ## 📫 Vamos conversar?
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/rodrigo-magalhaes-nunes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://wa.me/55SEUNUMERO" target="_blank">
+<a href="https://wa.me/5561985530074" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
 </a>
