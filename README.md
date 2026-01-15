@@ -39,21 +39,10 @@ Tenho background sólido em **suporte técnico e infraestrutura**, o que me dá 
 
 ## 📌 O que você vai encontrar nos meus repositórios
 
-- Projetos práticos focados em **lógica, organização e boas práticas**
-- Código legível e versionado
-- Experimentos com backend e APIs
-- Evolução constante
+Projetos pessoais e estudos práticos.
+Espaço para experimentar, organizar código e manter prática constante.
 
-> Prefiro projetos simples, bem feitos e explicáveis, do que algo grande sem base sólida.
 
----
-
-## 📊 GitHub Stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=RodrigoMaga&show_icons=true&theme=github_dark"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMaga&layout=compact&theme=github_dark"/>
-
----
 
 ## 📫 Vamos conversar?
 
